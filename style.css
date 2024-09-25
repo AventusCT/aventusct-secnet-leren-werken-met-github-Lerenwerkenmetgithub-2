@@ -34,3 +34,7 @@ th, td {
 .tabel1 {
     background-color: aqua;
 }
+
+p {
+    margin: 20px;
+}
