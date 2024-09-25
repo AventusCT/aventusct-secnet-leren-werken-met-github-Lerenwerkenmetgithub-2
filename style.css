@@ -14,14 +14,14 @@ h1 {
     margin-top: 20px;
 }
 
-table {
+.tabel1 {
     width: 60%;
     margin: 20px auto;
     border-collapse: collapse;
 }
 
-table, th, td {
-    border: 1px solid #999;
+.tabel, th, td {
+    border: 3px solid #ff0a0a;
 }
 
 th, td {
@@ -30,3 +30,7 @@ th, td {
 }
 
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
+
+.tabel1 {
+    background-color: aqua;
+}
