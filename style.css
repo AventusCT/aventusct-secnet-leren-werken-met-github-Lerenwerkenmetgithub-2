@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #0ee8ec;
+    background-color: #569d41;
 }
 
 h1 {
@@ -21,7 +21,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #7ce30e;
+    border: 10px solid #000000;
 }
 
 th, td {
@@ -30,7 +30,7 @@ th, td {
 }
 
 ul {
-    background-color: #1435dc;
+    background-color: #87d4de;
     padding: 10px;
     text-align: left;
 }
